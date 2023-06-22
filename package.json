@@ -24,7 +24,7 @@
   "dependencies": {
     "post-me": "^0.4.5",
     "skynet-js": "^4.0.1-beta",
-    "skynet-mysky-utils": "^0.1.0"
+    "skynet-mysky-utils": "^0.3.1"
   },
   "devDependencies": {
     "@types/node": "^14.14.37",
